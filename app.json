@@ -78,7 +78,7 @@
         },
         "DEV_NAME": {
             "description": "Creator Name or Username ",
-            "value": "Muhammed",
+            "value": "Akshay",
             "required": true
         },
         "SUPPORT": {
