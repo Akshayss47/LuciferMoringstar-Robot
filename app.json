@@ -10,7 +10,7 @@
       "filter",
       "bot"
     ],
-    "website": "https://youtube.com/c/MoTech_YT",
+    "website": "https://github.com/Akshayss47/LuciferMoringstar-Robot",
     "repository": "https://github.com/Akshayss47/LuciferMoringstar-Robot",
     "env": {
         "BOT_TOKEN": {
@@ -83,7 +83,7 @@
         },
         "SUPPORT": {
             "description": "Your Group Link Private or Public Link (with t.me or https://t.me)",
-            "value": "https://telegram.dog/Mo_Tech_Group",
+            "value": "https://github.com/Akshayss47/LuciferMoringstar-Robot",
             "required": true
         }
     },
